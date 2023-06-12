@@ -1,2 +1,1 @@
-# clumsyAPI
-Universal files for the ClumsyBot API
+# Clumsy API Release Notes

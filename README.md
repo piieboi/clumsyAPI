@@ -1,19 +1,21 @@
 # Clumsy API Release Notes
 CURRENT STATUS:
-- LATEST API: 3.6.1
+- LATEST API: 3.6.2 
 
-
-## 3.6.1 (REWRITING)
+## v3.6.2
 #### Overview
-`[|##---|-----|-----|-----|]` about 10% done
 
----
+- Porting to Python Language
+  
+  ⌞  `about 22% done`
+
+
 
 #### BASICS:
-`[#####-----]` ~50% done
+`[#########]` 100% done
 
 #### COMMANDS:
-`[----------]` ~0% done
+`[----------]` ~2% done
 
 #### OPTIMIZATIONS:
 `[----------]` ~0% done
